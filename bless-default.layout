@@ -29,6 +29,7 @@
   </area>
   <area type="hexadecimal">
     <case>upper</case>
+    <bpr>16</bpr>
     <display>
       <font>Monaco 12</font>
     </display>
@@ -41,12 +42,12 @@
           <background>white</background>
         </evencolumn>
       </evenrow>
-      <font>Monacos 12</font>
+      <font>Monaco 12</font>
     </display>
   </area>
   <area type="ascii">
     <display>
-      <font>Monacos 12</font>
+      <font>Monaco 12</font>
     </display>
   </area>
 </layout>
